@@ -1,0 +1,15 @@
+{
+  "name": "smart-irrigation-ai-iot",
+  "version": "2.4.0",
+  "private": true,
+  "description": "Smart Irrigation Using Artificial Intelligence and IoT (JalRakshak AI Mobile & Web)",
+  "scripts": {
+    "start": "npm --prefix SMART-IRRIGATION-USING-ARTIFICIAL-INTELLIGENCE-AND-IOT/web-dashboard run dev",
+    "dev": "npm --prefix SMART-IRRIGATION-USING-ARTIFICIAL-INTELLIGENCE-AND-IOT/web-dashboard run dev",
+    "build": "npm --prefix SMART-IRRIGATION-USING-ARTIFICIAL-INTELLIGENCE-AND-IOT/web-dashboard run build",
+    "preview": "npm --prefix SMART-IRRIGATION-USING-ARTIFICIAL-INTELLIGENCE-AND-IOT/web-dashboard run preview",
+    "mobile:sync": "npm --prefix SMART-IRRIGATION-USING-ARTIFICIAL-INTELLIGENCE-AND-IOT/web-dashboard run cap:sync",
+    "mobile:open": "npm --prefix SMART-IRRIGATION-USING-ARTIFICIAL-INTELLIGENCE-AND-IOT/web-dashboard run cap:open",
+    "mobile:run": "npm --prefix SMART-IRRIGATION-USING-ARTIFICIAL-INTELLIGENCE-AND-IOT/web-dashboard run cap:run"
+  }
+}
